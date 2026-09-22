@@ -1,1 +1,2 @@
-print("Hello")
+name="sasi"
+print("Hello",name)
